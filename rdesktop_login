@@ -1,0 +1,2 @@
+rdesktop -u <username_here> -p <pass_here> 10.11.26.172 
+#append -f for fullscreen
